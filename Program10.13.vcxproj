@@ -23,7 +23,7 @@
     <ClCompile Include="math.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Func.h" />
+    <ClInclude Include="math.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

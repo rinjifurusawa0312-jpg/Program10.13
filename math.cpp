@@ -5,11 +5,11 @@ double Triangle(double bottom, double height) {
 }
 
 // 円周率
-static double const pi = 3.14;
+static double const PI = 3.14;
 
 // 円
 double Circle(double radius) {
-	return radius * radius * pi;
+	return radius * radius * PI;
 }
 
 // 台形
