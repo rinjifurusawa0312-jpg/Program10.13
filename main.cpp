@@ -1,10 +1,6 @@
 ﻿#include <iostream>
+#include "Func.h"
 using namespace std;
-
-// プロトタイプ宣言
-double Triangle(double bottom, double height);
-double Circle(double radius);
-double Trapezoid(double topbase, double bottombase, double height);
 
 int main() {
 

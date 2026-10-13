@@ -16,5 +16,3 @@ double Circle(double radius) {
 double Trapezoid(double topbase, double bottombase, double height) {
 	return (topbase + bottombase) * height / 2;
 }
-
-// 変更
